@@ -1,4 +1,0 @@
-Numerical python 2nd edition Robert Johansson
-    1. pg 55 meshgrid arrays 
-    2. pg 60 lamdba functions 
-    3. pg 89 dot products, inner products, outer products, kronecker product, einstein summation convention
